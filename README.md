@@ -1,4 +1,4 @@
-# Front-End Summer training Tasks
+# Front-End Summer Training Tasks
 
 ## Here i will leave all the tasks i accomplished in the front-end summer training of 2024.
 
