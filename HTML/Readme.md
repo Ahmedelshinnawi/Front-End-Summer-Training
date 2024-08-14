@@ -8,7 +8,7 @@
   ## Seminar_schedule:
   - A simple schedule for seminar
   - [Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/HTML/Seminar%20schedule/)
-  - [Code](https://github.com/Ahmedelshinnawi/HTML_Task/blob/main/Task1/index.html)
+  - [Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/HTML/Seminar%20schedule/index.html)
   - ![schedule](https://github.com/user-attachments/assets/7b20d664-0906-421a-8da5-92f7b0962f11)
 
 
