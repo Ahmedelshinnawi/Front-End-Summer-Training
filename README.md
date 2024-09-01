@@ -1,5 +1,4 @@
 # Front-End Summer Training Tasks
 
-## Here i will leave all the tasks i accomplished in the front-end summer training of 2024.
-
-- __Each one of the folders will contain the tasks in this specific topic.__
+## Here, I will leave all the tasks I accomplished during the front-end summer training of 2024.
+- __Each directory will contain the tasks related to its specific topic.__
