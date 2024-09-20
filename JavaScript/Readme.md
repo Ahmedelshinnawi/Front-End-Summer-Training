@@ -1,7 +1,7 @@
 # Tasks in JavaScript
 
 - Task 1 about [Data Types](#Data_Types)
-- Task 2 about [Functions- conditions - loop](#Functions_conditions_loop)
+- Task 2 about [Functions - conditions - loop](#Functions_conditions_loop)
 
 
 
