@@ -33,12 +33,12 @@
   - [Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/OOP%20&%20Dom/Dom/Dom%20tree/)
   - [HTML Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/OOP%20%26%20Dom/Dom/Dom%20tree/index.html)
  
-  ### Image Loop:
+  #### Image Loop:
   - Create image element with for loop 10 times
   - [Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/OOP%20&%20Dom/Dom/Image%20loop/)
   - [JavaScript Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/OOP%20%26%20Dom/Dom/Image%20loop/script.js)
  
-  ### Web Document:
+  #### Web Document:
   - Using DOM Nodes to access, create, modify or remove any of the document elements
   - [Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/OOP%20&%20Dom/Dom/Web%20document/)
   - [HTML Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/OOP%20%26%20Dom/Dom/Web%20document/index.html)
