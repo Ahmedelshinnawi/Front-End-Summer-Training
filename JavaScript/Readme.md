@@ -49,4 +49,4 @@
 - Create, read, update, and delete cookies using JavaScript.
 - [Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/Cookies/)
 - [HTML Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Cookies/index.html)
-- [JavaScript Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/tree/main/JavaScript/Cookies)
+- [JavaScript Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Cookies/script.js)
