@@ -28,7 +28,7 @@
 
   ### DOM:
   #### DOM Tree:
-  - convert DOM TREE to html Representation
+  - convert DOM Tree to html Representation
   - [Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/OOP%20&%20Dom/Dom/Dom%20tree/)
   - [HTML Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/OOP%20%26%20Dom/Dom/Dom%20tree/index.html)
  
