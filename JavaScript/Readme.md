@@ -3,6 +3,7 @@
 - Task 1 about [Data Types](#Data_Types)
 - Task 2 about [Functions - conditions - loops](#Functions_conditions_loop)
 - Task 3 about [OOP & DOM](#OOP_DOM)
+- Task 4 about [Cookies](#Cookies)
 
 
 
@@ -42,3 +43,10 @@
   - [Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/OOP%20&%20Dom/Dom/Web%20document/)
   - [HTML Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/OOP%20%26%20Dom/Dom/Web%20document/index.html)
   - [JavaScript Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/OOP%20%26%20Dom/Dom/Web%20document/script.js)
+ 
+
+## Cookies:
+- Create, read, update, and delete cookies using JavaScript.
+- [Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/Cookies/)
+- [HTML Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Cookies/index.html)
+- [JavaScript Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/tree/main/JavaScript/Cookies)
