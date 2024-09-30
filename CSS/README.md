@@ -1,7 +1,7 @@
 # Tasks in CSS
-
-- Task 1 is [Order summary component from Frontend mentor](#Order-summary-component)
-- Task 2 is [Clipboard landing page from Frontend mentor](#Clipboard-landing-page)
+## Tasks are from Frontend mentor
+- Task 1 is [Order summary component](#Order-summary-component)
+- Task 2 is [Clipboard landing page](#Clipboard-landing-page)
 
 
 
