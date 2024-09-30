@@ -7,7 +7,7 @@
 
 
 
-## Order-summary-component:
+## Order summary component:
 - [Github repo](https://github.com/Ahmedelshinnawi/Order-summary-component)
 - [Live Demo](https://ahmedelshinnawi.github.io/Order-summary-component/index.html)
 
