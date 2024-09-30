@@ -1,7 +1,7 @@
 # Tasks in JavaScript
 
 - Task 1 about [Data Types](#Data-Types)
-- Task 2 about [Functions - conditions - loops](#Functions-conditions-loops)
+- Task 2 about [Functions, conditions & loops](#Functions-conditions-loops)
 - Task 3 about [OOP & DOM](#OOP-DOM)
 - Task 4 about [Cookies](#Cookies)
 
@@ -15,7 +15,7 @@
 
 
 
-  ## Functions - conditions - loops:
+  ## Functions, conditions & loops:
     - A simple program to perform actions on an array using functions, conditions and loops
     - [Live Demo to see the results](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/Functions,%20Conditions%20and%20Loops/)
     - [HTML Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Functions%2C%20Conditions%20and%20Loops/index.html)
