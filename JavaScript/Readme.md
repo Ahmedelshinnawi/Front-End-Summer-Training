@@ -14,7 +14,7 @@
 
 ## Task 1: Data Types
 - An implementation of different data types
-- **[Live Demo to see the result](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/Data%20Types/)**
+- **[Live Demo to see the results](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/Data%20Types/)**
 - **Code**: 
   - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Data%20Types/index.html)
   - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Data%20Types/script.js)
