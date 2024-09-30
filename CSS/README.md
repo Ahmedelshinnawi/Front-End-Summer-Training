@@ -12,6 +12,6 @@
 - [Live Demo](https://ahmedelshinnawi.github.io/Order-summary-component/index.html)
 
 
-## Clipboard-landing-page:
+## Clipboard landing page:
 - [Github repo](https://github.com/Ahmedelshinnawi/Clipboard-landing-page)
 - [Live Demo](https://ahmedelshinnawi.github.io/Clipboard-landing-page/)
