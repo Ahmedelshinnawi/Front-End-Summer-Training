@@ -7,7 +7,7 @@
 - [Task 2: Functions, Conditions, and Loops](#task-2-functions-conditions--loops)
 - [Task 3: OOP & DOM](#task-3-oop--dom)
   - [OOP](#oop)
-  - [DOM Manipulations](#dom-manipulations)
+  - [DOM](#dom)
 - [Task 4: Cookies](#task-4-cookies)
 
 ---
@@ -39,7 +39,7 @@
 - **[Live Demo to see the results](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/OOP%20&%20Dom/OOP/)** 
 - **[JavaScript Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/OOP%20%26%20Dom/OOP/oop.js)**
 
-### DOM Manipulations
+### DOM 
 
 #### DOM Tree:
 - Convert the DOM Tree to an HTML representation.
