@@ -52,7 +52,7 @@
 - **[JavaScript Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/OOP%20%26%20Dom/Dom/Image%20loop/script.js)**
 
 #### Web Document Manipulation:
--Access, create, modify, and remove elements from the document using DOM nodes.
+- Access, create, modify, and remove elements from the document using DOM nodes.
 - **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/OOP%20&%20Dom/Dom/Web%20document/)** 
 - **Code**:
   - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/OOP%20%26%20Dom/Dom/Web%20document/index.html)
@@ -61,7 +61,7 @@
 ---
 
 ## Task 4: Cookies
--Create, read, update, and delete cookies using JavaScript.
+- Create, read, update, and delete cookies using JavaScript.
 
 - **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/Cookies/)**
 - **Code**:
