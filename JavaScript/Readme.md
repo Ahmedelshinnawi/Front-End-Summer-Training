@@ -1,8 +1,8 @@
 # Tasks in JavaScript
 
 - Task 1 about [Data Types](#Data-Types)
-- Task 2 about [Functions-conditions-loops](#Functions-conditions-loop)
-- Task 3 about [OOP & DOM](#OOP-DOM)
+- Task 2 about [Functions - conditions - loops](#Functions-conditions-loops)
+- Task 3 about [OOP & DOM](#OOP-&-DOM)
 - Task 4 about [Cookies](#Cookies)
 
 
