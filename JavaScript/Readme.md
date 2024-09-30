@@ -21,7 +21,7 @@
     - [HTML Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Functions%2C%20Conditions%20and%20Loops/index.html)
     - [JavaScript Code](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Functions%2C%20Conditions%20and%20Loops/script.js)
  
-  ## OOP & DOM:
+  ## OOP&DOM:
   ### OOP:
   - Using Constructor method for creating Objects
   - [Live Demo to see the results](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/OOP%20&%20Dom/OOP/)
