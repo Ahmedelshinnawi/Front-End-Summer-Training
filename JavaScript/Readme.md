@@ -66,14 +66,14 @@
 ### Cookies
 - Create, read, update, and delete cookies using JavaScript.
 
-- **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/Storage/JavaScript/Cookies/)**
+- **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/Storage/Cookies/)**
 - **Code**:
   - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Cookies/index.html)
   - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Cookies/script.js)
 
 ### User Login
 - Use Local Storage to manage user login state and perform redirection based on the login status.
-- **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/Storage/JavaScript/Login/)**
+- **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/Storage/Login/)**
 - **Code**:
   - **Login Page**: 
    - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/index.html)
