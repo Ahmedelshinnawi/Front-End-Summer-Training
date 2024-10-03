@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>User Login</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+        *{
+            font-family: 'Space Mono', monospace;
+        }
+
+        body{
+            height: 100vh;
+            background-image: linear-gradient(hsl(229, 100%, 24%), hsl(0, 0%, 28%));
+            background-repeat:no-repeat;
+            background-size: contain;
+            font-family: 'Space Mono', monospace;
+            font-weight: 700;
+            font-size: 20px;
+            color: rgba(234, 234, 234, 0.71);
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        #container{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 0 auto;
+        }
+
+        #image {
+            width: 85px;
+            height: 80px;
+            border-radius: 50%;
+            border: 2px solid rgba(255, 255, 255, 0.15);
+            overflow: hidden;
+            margin: 0 auto 20px;
+            align-items: center;
+        }
+
+        #image img{
+            width: 70px;
+            filter: invert(1) brightness(0.5);
+        }
+        #image:hover{
+            transform: scale(1.099);
+        }
+       #image img:hover{
+            filter: invert(0) brightness(1);
+        }
+        #login{
+            background-color: rgba(34, 34, 34, 0.21);
+            padding: 20px;
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+            width: 300px;
+            margin: 0 auto;
+        }
+        #username{
+            width: 70%;
+            background: transparent;
+            padding: 10px;
+            margin: 20px 0;
+            border-radius: 20px;
+            border: 1px solid;
+            color:white;
+            font-size: 15px;
+        }
+        #username:focus{
+            transform: scale(1.099);
+        }
+        #password{
+            width: 70%;
+            background: transparent;
+            padding: 10px;
+            margin: 20px 0;
+            border-radius: 20px;
+            border: 1px solid;
+            color: white;
+            font-size: 15px;
+        }
+        #password:focus{
+            transform: scale(1.099);
+        }
+        button{
+            background-color: hsl(229, 100%, 24%);
+            color: white;
+            border: none;
+            border-radius: 20px;
+            padding: 10px 115px;
+            cursor: pointer;
+            margin: 10px 0;
+            font-size: 20px;
+            cursor: pointer;
+            transition: 0.5s;
+        }
+        button:hover{
+            background-color: rgba(34, 34, 34, 0.1);
+        }
+
+
+    </style>
+</head>
+<body>
+<div id="container">
+<h2>Login</h2>
+<div id="image">
+    <img src="user.png" alt="" >
+</div>
+<form id="login">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required autocomplete="off"> <br><br>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required> <br><br>
+
+    <button type="submit">Login</button>
+</form>
+</div>
+
+<script src="login.js"></script>
+</body>
+</html>
