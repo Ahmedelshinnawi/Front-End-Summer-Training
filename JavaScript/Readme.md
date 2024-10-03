@@ -8,7 +8,9 @@
 - [Task 3: OOP & DOM](#task-3-oop--dom)
   - [OOP](#oop)
   - [DOM](#dom)
-- [Task 4: Cookies](#task-4-cookies)
+- [Task 4: Storage](#task-4-storage)
+  - [Cookies](#cookies)
+  - [User Login](user-login)
 
 ---
 
@@ -60,12 +62,24 @@
 
 ---
 
-## Task 4: Cookies
+## Task 4: Storage
+### Cookies
 - Create, read, update, and delete cookies using JavaScript.
 
-- **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/Cookies/)**
+- **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/Storage/JavaScript/Cookies/)**
 - **Code**:
-  - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Cookies/index.html)
-  - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Cookies/script.js)
+  - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Cookies/index.html)
+  - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Cookies/script.js)
 
+### User Login
+- use Local Storage to manage user login state and perform redirection based on the login status.
+- **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/Storage/JavaScript/Login/)**
+- **Code**:
+  - **Login Page**: 
+    - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/index.html)
+    - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/login.js)
+   
+  - **Home Page**: 
+    - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/Home.html)
+    - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/home.js)  
 
