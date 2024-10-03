@@ -10,7 +10,7 @@
   - [DOM](#dom)
 - [Task 4: Storage](#task-4-storage)
   - [Cookies](#cookies)
-  - [User Login](user-login)
+  - [User Login](#user-login)
 
 ---
 
@@ -72,12 +72,12 @@
   - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Cookies/script.js)
 
 ### User Login
-- use Local Storage to manage user login state and perform redirection based on the login status.
+- Use Local Storage to manage user login state and perform redirection based on the login status.
 - **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/Storage/JavaScript/Login/)**
 - **Code**:
   - **Login Page**: 
-    - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/index.html)
-    - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/login.js)
+   - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/index.html)
+   - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/login.js)
    
   - **Home Page**: 
     - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/Home.html)
