@@ -76,8 +76,8 @@
 - **[Live Demo](https://ahmedelshinnawi.github.io/Front-End-Summer-Training/JavaScript/Storage/Login/)**
 - **Code**:
   - **Login Page**: 
-   - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/index.html)
-   - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/login.js)
+    - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/index.html)
+    - [JavaScript](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/login.js)
    
   - **Home Page**: 
     - [HTML](https://github.com/Ahmedelshinnawi/Front-End-Summer-Training/blob/main/JavaScript/Storage/Login/Home.html)
